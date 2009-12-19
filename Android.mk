@@ -7,7 +7,6 @@ LOCAL_SRC_FILES = \
     src/metadata.c \
     src/tags.c \
     src/unpack.c \
-    src/unpack3.c \
     src/words.c \
     src/wputils.c
 
