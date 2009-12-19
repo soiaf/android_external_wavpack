@@ -1,0 +1,3 @@
+This project contains all the code to build a shared library for decoding WavPack files on the Android platform. This code uses the 4.60.1 code base.
+For license details, please see the file license.txt
+For more details about WavPack, please visit www.wavpack.com
