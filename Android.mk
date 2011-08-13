@@ -1,3 +1,5 @@
+LOCAL_MODULE_TAGS := optional
+
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 
